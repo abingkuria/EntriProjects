@@ -1,0 +1,26 @@
+The Employee+Layoffs_DT3.csv used for the Mini Project.
+
+using the excel the data is cleaned.
+1. duplicates removed.
+2. all the fields trimmed and cleaned.
+3. set the data type.
+4. fill the null values with 0's
+5. Fill the rest of the values with Undefined and Unknown type.
+
+in the Power BI
+1. data loaded and created the reports.
+2. created calculated columns to find the total number of employees from the total paid off column and percentage.
+3. created calculated measures for total fund raised and total laid off.
+
+created reports.
+Report 1 - Industry type and no. of employees based on date.
+Report 2 - Based on date, Country and Sum Of Laid off employees and location. 
+		created slicer based on locations too.
+Report 3 - Created the pie chart based on country and pie chart on industry, laid off and stage.
+Report 4 - Based on date, drill up down, company name and sum of percentage.
+Report 5 - Used table, slicer and donut charts. added the calculated column here. Based on date when click 
+		on the table to select the country, the table will give details of total laid and total employee
+		also show the donut chart based on the industry the laid off set and total employee details 
+		will display.
+
+Dashboard is created 
