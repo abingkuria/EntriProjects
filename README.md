@@ -1,2 +1,3 @@
 # EntriProjects
-Projects of Entri
+Projects of Entri.
+# This is the Mini Project.
